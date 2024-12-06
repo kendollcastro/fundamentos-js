@@ -123,10 +123,3 @@ let veces = 5; // Aquí defines cuántas veces imprimir
 for (let y = 1; y <= veces; y++) {
   console.log(nombre);
 }
-
-
-/*Escribe un programa que:
-
-- Pida al usuario cinco números.
-- Use un bucle para sumarlos.
-- Muestra la suma total.*/
