@@ -14,7 +14,7 @@ document.getElementById('calcular').addEventListener('click', () => {
   // Realizar la operación
   let resultado;
   if (operacion === 'suma') {
-      resultado = numero1 + numero2;
+      resultado = numero1 + numero2; // Pista
   } else if () {
       ;
   } else if () {
